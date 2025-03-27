@@ -22,12 +22,12 @@ export default function Tags() {
       <tr className="border-b hover:bg-slate-500">
         <td className="px-6 py-3">Ayesha</td>
         <td className="px-6 py-3">24</td>
-        <td className="px-6 py-3">Lahore</td>
+        {/* <td className="px-6 py-3">Lahore</td> */}
       </tr>
     </tbody>
   </table>
 
-  
+
   <table className=' border  bg-slate-700 rounded-lg overflow-hidden  '>
   <thead className="   ">
   <tr>
